@@ -1,0 +1,43 @@
+
+/* Add your profile image here */
+.Photo{
+    background-image: url('profilepic.jpg');
+}
+/* Projects Photo */
+.project1{
+    background-image: url('vertex2.png');
+    cursor: none;    
+}
+.project2{
+    background-image: url('fnhawk.png');
+    cursor: none;
+}
+.project3{
+    background-image: url('feedback.png');
+    cursor: none;
+}
+.project4{
+    background-image: url('hackon.png');
+    cursor: none;
+}
+.project5{
+    background-image: url('tip.png');
+    cursor: none;
+}
+.project6{
+    background-image: url('gomux.png');
+    cursor: none;
+}
+/* Miscelaneous Activities photo */
+.misc1{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+one');
+    cursor: none;
+}
+.misc2{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+two');
+    cursor: none;
+}
+.misc3{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+three');
+    cursor: none;
+}
