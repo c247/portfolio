@@ -4,6 +4,10 @@
     background-image: url('profilepic.jpg');
 }
 /* Projects Photo */
+.project7{
+    background-image: url('homeify.png');
+    cursor: none;    
+}
 .project1{
     background-image: url('vertex2.png');
     cursor: none;    

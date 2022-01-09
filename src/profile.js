@@ -33,6 +33,13 @@ const section3Title = "Past Projects";
 const projects = [
   {
     // Add image in './styles/images.css' in #project1
+    id: "project7",
+    name: "Homeify",
+    skills: ["React, Firebase v9"],
+    url: "https://homeify-kvagdmmcr-c247.vercel.app/category/rent/LzzfQNlZHNpmpAHSfLGx",
+  },
+  {
+    // Add image in './styles/images.css' in #project1
     id: "project1",
     name: "Vertex Wolf",
     skills: ["C#, Unity"],
