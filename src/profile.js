@@ -29,7 +29,7 @@ const skillsBar = [
 // Edit your projects, its name, your skills used to make it, and the url.
 // You can omit freely anything if you dont have it
 // To Add a Project, copy any one below and paste it after the last comma and increment the id's project number
-const section3Title = "Past Projects";
+const section3Title = "Projects";
 const projects = [
   {
     // Add image in './styles/images.css' in #project1
@@ -94,7 +94,7 @@ const miscellaneous = [
 const section5Title = "Contact :)";
 const contact = {
   pitch:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
+    "I'm always down to chat!",
   copyright: "Vijay Ananth",
   contactUrl: "https://formspree.io/f/mvolggag",
 };
@@ -103,8 +103,8 @@ const contact = {
 const social = {
   github: "https://github.com/c247",
   // twitter: "https://twitter.com",
-  linkedin: "https://linkedin.com/ananth-vijay",
-  resume: "https://novoresume.com/",
+  linkedin: "https://www.linkedin.com/in/ananth-vijay/",
+  resume: "https://drive.google.com/file/d/1fMOA0iDm9AAyb0KRf7i1y2lHhtw-OPb9/view?usp=sharing",
 };
 // Dont change anything here
 export {
